@@ -1,0 +1,29 @@
+-------------------------------------------
+Batch: 0
+-------------------------------------------
++--------------------+---------+
+|               email|birthYear|
++--------------------+---------+
+|Spencer.Staples@t...|     1964|
+| Jane.Mitra@test.com|     1963|
+|David.Clayton@tes...|     1962|
+|Senthil.Jefferson...|     1961|
+|Sarah.Phillips@te...|     1960|
+|   Danny.Wu@test.com|     1959|
+|Sarah.Sanchez@tes...|     1958|
+|Jerry.Khatib@test...|     1957|
+|Neeraj.Khatib@tes...|     1956|
+| Craig.Huey@test.com|     1955|
+|Craig.Davis@test.com|     1954|
+|Santosh.Smith@tes...|     1953|
+|Senthil.Jackson@t...|     1950|
+|Larry.Anandh@test...|     1949|
+|Craig.Doshi@test.com|     1948|
+|Danny.Clark@test.com|     1947|
+|Suresh.Smith@test...|     1946|
+|Jason.Ahmed@test.com|     1944|
+|Jacob.Gonzalez@te...|     1943|
+|Danny.Anderson@te...|     1942|
++--------------------+---------+
+only showing top 20 rows
+
